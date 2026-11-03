@@ -1,0 +1,13 @@
+{
+  "name": "websec-lab",
+  "version": "1.0.0",
+  "description": "Intentionally vulnerable web app + hardened twin for the Cyber Security (IT-30001) assignment. Local use only.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^13.0.3",
+    "express": "^4.21.0"
+  }
+}
