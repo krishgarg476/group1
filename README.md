@@ -66,10 +66,10 @@ XSS (framework auto-escaping, sanitiser, CSP, HttpOnly, safe DOM sinks); CSRF (S
 ## Ownership declaration (Table 3)
 | Member name | Roll number | Category | Variant implemented |
 |---|---|---|---|
-|  |  | SQL injection | V1 / V2 |
-|  |  | OS command injection | V1 |
-|  |  | XSS | V1 (Stored) |
-|  |  | CSRF | V1 (GET) |
+| Ved Gupta / Pratik Rakhecha |  IIT2024171/ IIT2024176| SQL injection | V1 / V2 |
+| Krish Garg | IIT2024175 | OS command injection | V1 |
+| Dewansh Khandelwal | IIT2024173 | XSS | V1 (Stored) |
+| Manav Garg | IIT2024182 | CSRF | V1 (GET) |
 
 ## Hosting note
 Run both instances locally for the video and viva. If you must host online, host only the **secure** instance publicly.
